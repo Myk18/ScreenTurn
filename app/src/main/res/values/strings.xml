@@ -1,0 +1,7 @@
+<resources>
+    <string name="widget_name">ScreenTurn</string>
+    <string name="widget_text">T</string>
+    <string name="widget_state">1</string>
+    <string name="widget_ena">A</string>
+    <string name="widget_dis">S</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="50dp"
+    android:layout_height="50dp">
+
+    <LinearLayout
+        android:padding="@dimen/widget_margin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/button_change"
+            android:background="#9f235097"
+            android:text="@string/widget_ena"
+            android:gravity="center"
+            android:icon="@android:drawable/ic_menu_rotate"
+            android:layout_width="32dp"
+            android:layout_height="32dp" />
+
+    </LinearLayout>
+</FrameLayout>
+
